@@ -236,7 +236,7 @@
      </div>
 
 
-     <p>© Copyright 2018 TinDog</p>
+     <p>© Copyright 2021 Sylvia Raposo</p>
 
    </footer>
 
